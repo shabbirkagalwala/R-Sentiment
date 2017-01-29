@@ -1,0 +1,21 @@
+1. To get the Access Token and Access secret follow the link:
+https://dev.twitter.com/oauth/overview/application-owner-access-tokens
+
+To get the consumer key and consumer secret follow the steps:
+Go to https://dev.twitter.com/apps/new and log in, if necessary
+Supply the necessary required fields, accept the Terms Of Service, and solve the CAPTCHA.
+Submit the form
+Go to the API Keys tab, there you will find your Consumer key and Consumer secret keys.
+Copy the consumer key (API key) and consumer secret from the screen into our application.
+
+
+ 
+Substitute the values in the variables defined in the code.
+
+Now to get the required R sentiment Packages:
+Download the following packages from the links: 
+Download the Rstem_0.4-1.tar.gz package on the desktop (or any directory of your choice)
+https://cran.r-project.org/src/contrib/Archive/Rstem/
+
+Download the sentiment_0.2.tar.gz package on the desktop (or any directory of your choice)
+https://cran.r-project.org/src/contrib/Archive/sentiment/
